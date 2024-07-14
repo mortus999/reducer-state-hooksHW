@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+
+.select-item select {
+  padding: 12px;
+  margin-right: 12px;
+  width: 20%;
+}
+
+
+.shop-cart {
+  border: 1px solid #000000;
+  padding: 8px;
+  margin: 8px;
+  display: inline-block;
+  background-color: #5f03ff;
+  width: 75%;
+  height: 50%;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.shop-cart ul {
+  list-style-type: none;
+}
+
+.shop-cart button {
+  background-color: #1204aa; 
+  border: none;
+  color: white;
+  padding: 12px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.shop-cart button:hover {
+  background-color: #1c0551;
+}
+
